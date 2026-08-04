@@ -1,4 +1,4 @@
-# Skyline — Mobile (React Native, Android)
+# Weather Today — Mobile (React Native, Android)
 
 A real Android app version of the weather app, built with React Native so it
 opens as a normal project in Android Studio. Same backend, same API
